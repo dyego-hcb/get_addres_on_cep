@@ -1,0 +1,33 @@
+# Arquivos de configuração do sistema
+.vscode/
+.idea/
+
+# Arquivos de dependências (gerados automaticamente)
+/vendor/
+/node_modules/
+
+# Arquivos de log e cache
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de build e compilados
+/build/
+/dist/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de backup e temporários
+*.bak
+*.swp
+*~
+
+# Arquivos de configuração específicos do editor
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de cache do PHP
+.cache/
